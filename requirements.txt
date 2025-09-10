@@ -1,0 +1,10 @@
+# Core dependencies
+flet==0.24.1
+requests==2.32.3
+
+# Optional: for better performance
+urllib3==2.2.3
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+pyinstaller
